@@ -1,4 +1,4 @@
-[![MasterHead](https://images.saymedia-content.com/.image/t_share/MTk0NDk5NDE1ODcxMTM3MTU1/javascript-animated-background.gif)](https://vasyl16.github.io/VasylYurchuk/)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://vasyl16.github.io/VasylYurchuk/)
 <h1 align="center">Hi 👋, I'm Vasyl Yurchuk</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
 <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" align="right" width="400" alt="Coding" >
